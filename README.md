@@ -6,12 +6,12 @@
 
 
 ### Prerequisites
-- NodeJS 
-- Git
-- Ganache 
-- Truffle
-- Chrome Browser
-- Metamask
+- NodeJS (https://nodejs.org/en/)
+- Git (https://desktop.github.com/) 
+- Ganache (https://truffleframework.com/ganache) 
+- Truffle (``` npm install -g truffle ``` )
+- Chrome Browser (https://www.google.com/chrome/)
+- Metamask (https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
 <img width="721" alt="screen shot 2018-12-26 at 3 09 14 am" src="https://user-images.githubusercontent.com/9275193/50438396-b0d27580-08bb-11e9-996a-5c8e93112365.png">
 
