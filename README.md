@@ -1,4 +1,9 @@
-# ethereum-dapp-pet-store
+# Pet Store ( DApp )
+
+ Pet Store web application ( DApp) on Ethereum Blockchain Network
+
+<img width="404" alt="ganache" src="https://user-images.githubusercontent.com/9275193/50452267-1861e280-0907-11e9-9280-69740546eb92.png">
+
 
 ### Prerequisites
 - NodeJS 
