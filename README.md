@@ -1,4 +1,4 @@
-# Pet Store ( DApp )
+# Pet Store ( Ethereum DApp )
 
  Pet Store web application ( DApp) on Ethereum Blockchain Network
 
