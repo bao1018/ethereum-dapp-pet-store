@@ -8,6 +8,9 @@
 - Chrome Browser
 - Metamask
 
+<img width="721" alt="screen shot 2018-12-26 at 3 09 14 am" src="https://user-images.githubusercontent.com/9275193/50438396-b0d27580-08bb-11e9-996a-5c8e93112365.png">
+
+
 Watch my youtube video for step by step guide
 
 ### Initialize the project
