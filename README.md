@@ -18,6 +18,10 @@
 
 Watch my youtube video for step by step guide
 
+
+[![Alt text for your video](https://img.youtube.com/vi/KBRoZ71LzFA/0.jpg)](http://www.youtube.com/watch?v=KBRoZ71LzFA)
+
+
 ### Initialize the project
 ``` 
 npm install
