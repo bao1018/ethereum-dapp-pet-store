@@ -19,7 +19,7 @@
 Watch my youtube video for step by step guide
 
 
-[![Alt text for your video](https://img.youtube.com/vi/KBRoZ71LzFA/0.jpg)](http://www.youtube.com/watch?v=KBRoZ71LzFA)
+[![Alt text for your video](https://img.youtube.com/vi/Wx0agDPLlcQ/0.jpg)](http://www.youtube.com/watch?v=Wx0agDPLlcQ)
 
 
 ### Initialize the project
