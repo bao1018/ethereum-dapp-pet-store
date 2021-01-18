@@ -30,8 +30,10 @@ npm install
 
 ### Compile and Migrate
 ```
-truffle compile
-truffle migrate 
+sudo truffle compile
+sudo truffle migrate --network besu
+## rm -rf ./build
+## sudo truffle migrate --network besu --reset
 ```
 
 ### Deploy User Interface
